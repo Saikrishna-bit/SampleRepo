@@ -11,6 +11,7 @@ public float subtract(int x,int y){
  }
  public float divide(int x,int y){
      return x/y;
+     return x/y;
  }
 }
 class Simple{  
